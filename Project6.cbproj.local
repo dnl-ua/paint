@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\D\Documents\Embarcadero\Studio\Projects\Unit10.dfm=C:\Users\D\Documents\Embarcadero\Studio\Projects\paint\Unit10.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,=C:\Users\D\Documents\Embarcadero\Studio\Projects\Unit10.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=C:\Users\D\Documents\Embarcadero\Studio\Projects\Unit10.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\D\Documents\Embarcadero\Studio\Projects\Unit10.cpp=C:\Users\D\Documents\Embarcadero\Studio\Projects\paint\Unit10.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,=C:\Users\D\Documents\Embarcadero\Studio\Projects\Unit11.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,C:\Users\D\Documents\Embarcadero\Studio\Projects\Unit10.h=C:\Users\D\Documents\Embarcadero\Studio\Projects\paint\Unit10.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.124,=C:\Users\D\Documents\Embarcadero\Studio\Projects\Project6PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.042,=C:\Users\D\Documents\Embarcadero\Studio\Projects\Project6PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,C:\Users\D\Documents\Embarcadero\Studio\Projects\Project6PCH1.h=C:\Users\D\Documents\Embarcadero\Studio\Projects\paint\Project6PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,C:\Users\D\Documents\Embarcadero\Studio\Projects\Project6.cbproj=C:\Users\D\Documents\Embarcadero\Studio\Projects\Project6.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,C:\Users\D\Documents\Embarcadero\Studio\Projects\Project6.cbproj=C:\Users\D\Documents\Embarcadero\Studio\Projects\paint\Project6.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
